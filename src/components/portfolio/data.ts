@@ -74,9 +74,8 @@ export const PROJECTS = [
       { label: "loop", value: "human-in-the-loop" },
     ],
     links: [
-      { label: "Live Demo / Streamlit", href: CONTACT.github },
+      { label: "Live Demo", href: "https://www.hack51.africa/auth/login" },
       { label: "GitHub Repo", href: CONTACT.github },
-      { label: "Evaluation Writeup", href: CONTACT.github },
     ],
   },
   {
@@ -94,9 +93,8 @@ export const PROJECTS = [
       { label: "payload", value: "low-bandwidth" },
     ],
     links: [
-      { label: "Live App", href: CONTACT.github },
-      { label: "GitHub Repo", href: CONTACT.github },
-      { label: "Architecture Spec", href: CONTACT.github },
+      { label: "Live Demo", href: "https://aafiacare.netlify.app/" },
+      { label: "GitHub Repo", href: "https://github.com/SimplyBecca5220/aafia-mental-health-app" },
     ],
   },
   {
@@ -114,8 +112,8 @@ export const PROJECTS = [
       { label: "model", value: "peer-to-peer" },
     ],
     links: [
-      { label: "Live Platform", href: CONTACT.github },
-      { label: "GitHub Repo", href: CONTACT.github },
+      { label: "Live Demo", href: "https://theskillsync.lovable.app/" },
+      { label: "GitHub Repo", href: "https://github.com/SimplyBecca5220/theskillsync" },
     ],
   },
 ];
