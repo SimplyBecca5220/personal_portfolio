@@ -212,7 +212,7 @@ export function Projects() {
     <Section
       id="projects"
       eyebrow="Selected work"
-      title="Projects with engineering rigor"
+      title="Projects"
       description="Each build documents the problem, the evaluation methodology, and the production stack behind it."
     >
       <div className="space-y-5">
